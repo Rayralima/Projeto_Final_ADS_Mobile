@@ -15,6 +15,7 @@
     "@react-navigation/native": "^7.0.14",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
+    "expo": "^52.0.20",
     "express": "^4.21.2",
     "react-native-gesture-handler": "^2.21.2",
     "react-native-reanimated": "^3.16.5",
